@@ -1,0 +1,7 @@
+# LAB-COMBINATORICS-AND-GRAPHS
+Exercise during class
+ID : 51702108
+Name : Nguyen Kim Hue
+Class : 17050202
+Group : 04_02
+TON DUC THANG UNIVERSITY
